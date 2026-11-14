@@ -1,0 +1,16 @@
+# python environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Rasters are large thus, they will be kept on the local storage. 
+# The rasters will be described in data.md
+
+*.tif
+*.TIF
+*.zip
+
+#Editor system cluster
+.DS_Store
+Thumbs.db
+.vscode/
