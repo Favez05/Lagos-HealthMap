@@ -31,7 +31,7 @@ This end-to-end methodology bridges crowdsourced spatial data with official gove
 >Things I learnt from month two include: Analysing and querying a the LagosBoundary data gotten from my Lagos Health Mao data, the difference between the print and return, where one just brings an output and one makes the file reuseble.
 
 3. **MONTH 3**
-- [] Week 10: Gepandas loaded, checked, joixned and mapped my sample ward layer in code.
+- [x] Week 10: Gepandas loaded, checked, joixned and mapped my sample ward layer in code.
 - [] Week 11:
 - [] Week 12:
 - [] Week 13:
